@@ -2,7 +2,5 @@ package com.spring.bootapi.repository;
 
 public class BootRepository {
     
-  public static void main(String []args) {
-
-  }
+  //hi this is practice of git merge
 }
